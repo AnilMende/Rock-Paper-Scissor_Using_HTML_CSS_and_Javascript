@@ -1,1 +1,2 @@
 # Rock-Paper-Scissor_Using_HTML_CSS_and_Javascript
+This repository contains the HTML, CSS and Javascript files which are used for building a ROCK PAPER SCISSOR Game, by using the some concepts of html, css and javascript and also used the display properties, classList to create the new class based on the result and which helps in changing the text color of the result. And additionally added the scores of the both player and computer after every game the score gets updated..
